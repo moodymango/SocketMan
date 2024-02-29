@@ -4,8 +4,6 @@ A lightweight, minimalist GUI that allows developers to view, filter and emit We
 
 SocketMan is an open source developr tool, accelerated under OSLabs.
 
-## GitHub release (latest by date) GitHub last commit GitHub GitHub Repo stars GitHub issues
-
 ### 📖 **Getting Started** 📖
 
 ---

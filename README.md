@@ -1,4 +1,7 @@
-## ![SocketMan](https://github.com/moodymango/SocketMan/assets/84095263/d9e4bebe-fb30-4267-93eb-6e1f0a413bfb)
+<p align="center">
+    <img width="200" height="200"src="https://github.com/moodymango/SocketMan/assets/84095263/d9e4bebe-fb30-4267-93eb-6e1f0a413bfb">
+</p>
+
 
 A lightweight, minimalist GUI that allows developers to view, filter and emit WebSocket events in order to monitor and debug applications using Socket.IO
 

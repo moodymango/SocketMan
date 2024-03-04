@@ -17,7 +17,7 @@ SocketMan is an open source developr tool, accelerated under OSLabs.
 
 ---
 
-Listen Page 🎧
+## Listen Page 🎧
 ![image1](https://github.com/moodymango/SocketMan/assets/84095263/44896dca-622b-4603-acf9-b781b095d6af)
 
 All events will be logged to the Listen page. Here events can be filtered by attributes including:
@@ -29,14 +29,16 @@ All events will be logged to the Listen page. Here events can be filtered by att
 - Socket ID
 
 
-Emit Page 🚀
+## Emit Page 🚀
 ![image2](https://github.com/moodymango/SocketMan/assets/84095263/07df17d1-6ed5-45fd-9d2a-f9b86c8373de)
 
 Test events on this page. Create an event by providing an event name. Optionally, add any desired payloads or a callback. Payloads must be provided in JSON format; a red indicator will appear on the argument if the JSON is invalid or does not match the user-defined type.
 
 Save an event by giving it a name in the Save or Load Event section of the page and then clicking "Save Event". Saved events are added to local storage. To load an event, select one from the dropdown.
 
-Light and Dark Mode
+
+## Light and Dark Mode ☀ 🌑
+
 Change the settings of the UI based on your personal preference!
 
 ### **Want to Contribute?**
